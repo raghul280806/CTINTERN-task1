@@ -21,4 +21,6 @@ After compilation, the smart contract was deployed using the Remix Virtual Machi
 Once deployed, the contract functions were tested by interacting with them through Remix. This interaction showed how function calls differ from transactions, how state changes occur, and how Ethereum handles data immutability. This task provided a strong foundation in blockchain basics and helped in understanding how decentralized applications operate without centralized control.
 Overall, Task 1 was essential in building confidence in Solidity programming and blockchain concepts. It introduced real-world blockchain development practices and prepared the groundwork for more advanced tasks such as token creation and decentralized finance applications.
 
-output
+output:
+    <<img width="1920" height="1080" alt="Image" src="https://githuimg width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2bda8157-9ab4-469d-bfff-db948ef0cbaa" />
+b.com/user-attachments/assets/ddc20e52-738c-4576-b840-4904e93f7e3e" />
