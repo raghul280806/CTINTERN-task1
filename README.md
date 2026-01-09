@@ -22,5 +22,4 @@ Once deployed, the contract functions were tested by interacting with them throu
 Overall, Task 1 was essential in building confidence in Solidity programming and blockchain concepts. It introduced real-world blockchain development practices and prepared the groundwork for more advanced tasks such as token creation and decentralized finance applications.
 
 output:
-    <<img width="1920" height="1080" alt="Image" src="https://githuimg width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2bda8157-9ab4-469d-bfff-db948ef0cbaa" />
-b.com/user-attachments/assets/ddc20e52-738c-4576-b840-4904e93f7e3e" />
+    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c7a5c647-d961-4c7a-b799-5fd09a019daf" />
